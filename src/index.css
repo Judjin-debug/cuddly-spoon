@@ -47,8 +47,11 @@ code {
 }
 
 .Output {
-  text-align: left;
   width: 100%;
+  text-align: left;
   padding: 0 1em;
+}
+
+.OutputItem {
   margin: 0.5em 0;
 }
