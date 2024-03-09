@@ -37,6 +37,9 @@ code {
   width: 100%;
   display: grid;
   grid-template-columns: repeat(3, 1fr);
+  position: sticky;
+  top: 0px;
+  left: 0px;
 }
 
 .ButtonTab button {
